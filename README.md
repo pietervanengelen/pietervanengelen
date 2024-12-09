@@ -27,8 +27,8 @@ Als docent Jazz & Pop begeleid ik studenten in hun artistieke en professionele o
 
 ## 🚀 Projecten
 
-### 💻 [Q-Highschool Informatica Projecten](https://q-highschool.nl)
-- **Beschrijving:** Ontwikkelen van uitdagend informatica-onderwijs voor middelbare scholieren, variërend van eenvoudige console-spellen tot websites met databases.
+### 💻 [Q-Highschool Informatica Projecten](https://informatica.q-highschool.nl)
+- **Beschrijving:** Samen met mijn collega's ontwikkelen van uitdagend informatica-onderwijs voor middelbare scholieren, variërend van eenvoudige console-spellen tot websites met databases.
 - **Technologieën:** Python, HTML/CSS, Java, Assembly, ...
 - **Resultaat:** Studenten creëerden projecten die direct publiceerbaar en functioneel zijn.  
 
